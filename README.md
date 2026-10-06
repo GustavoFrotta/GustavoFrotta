@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Gustavo da Costa Frota, tenho 22 anos e sou do Amazonas. Concluí o ensino médio no Lato Sensu. Atualmente, estou cursando Engenharia da Computação na UEA.
+Me chamo Gustavo da Costa Frota, tenho 22 anos e sou do Amazonas. Concluí o ensino médio no Lato Sensu e atualmente estou cursando Engenharia da Computação na UEA.
 
 <p align="left">
     <a href="https://github.com/GustavoFrotta?tab=stars">
